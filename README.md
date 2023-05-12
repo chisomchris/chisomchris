@@ -4,7 +4,6 @@
 
 ## 🚀 About Me
 I'm a full stack web developer...
-currently in training.
 
 
 ## 🔗 Links
@@ -14,14 +13,13 @@ currently in training.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Webpack, React, Node.js, Express
+Javascript, HTML, CSS, Webpack, React, Node.js, Express and Next.js
 
 ## Other  Sections
-👩‍💻 I'm currently working on hngi9 and I4GxZuri
 
-🧠 I'm currently learning Node.js at Zuri
+🧠 I'm currently learning Next JS
 
-👯‍♀️ I'm looking to collaborate on [vanill-games](https://github.com/chisomchris/vanilla-games)
+👯‍♀️ I'm looking to collaborate on [vanilla-games](https://github.com/chisomchris/vanilla-games)
 
 📫 How to reach me ezeanyaeche4real@gmail.com
 
